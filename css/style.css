@@ -1,0 +1,40 @@
+body{
+  font: 45px;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;  
+}
+
+.navbar {
+    background-color: black;
+}
+
+.nav-item1{
+    color: white;
+}
+
+.text-white{
+color: white !important
+}
+
+.quem-somos{
+    background-color: yellow;
+    color: black;
+}
+
+.titulos{
+    background-color: white;
+    color: black;
+}
+
+.patrocinadores{
+    background-color: aqua;
+    color: black;
+}
+
+.bg-footer{
+    background-color: red;
+    color: black;
+}
